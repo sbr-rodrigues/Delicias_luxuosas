@@ -6,7 +6,7 @@ body {
   font-size: 20px;
   font-family: Tahoma;
   padding: 20px;
-  background-image: url(https://blog.plantei.com.br/wp-content/uploads/2015/08/capa-morango.jpg);
+  background-image: url(https://wallpapers.com/images/featured-full/fundo-de-sobremesa-oy8zs6wkx3mkz7x7.jpg);
   }
 
 .menu {
@@ -57,14 +57,8 @@ img {
 
 .margem-direita {
   float: right;
-  margin-left: 10px; /* Ajuste o espaço à esquerda da imagem */
-  width: 300px;
-}
-
-video {
-  width: 300px;
-  margin-left: 20px; /* Espaço entre o vídeo e o texto */
-  float: right; /* Move o vídeo para a margem direita */
+  margin-left: 20px; 
+  width: 250px;
 }
 
 form {
